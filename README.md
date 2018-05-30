@@ -37,3 +37,5 @@ python application.py
 Now open `http://localhost:5000/` in your browser.
 
 # Example
+
+![](https://github.com/z33pX/Poloniex-Ticker-Flask-WebApp/blob/master/01.png)
